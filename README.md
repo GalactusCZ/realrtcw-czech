@@ -11,7 +11,7 @@ A Czech translation of dubbing and all text in RealRTCW (a mod for Return to Cas
 ### Custom installation
 
 1. Locate the mod folder, if installed via Steam it will be in `C:\Program Files (x86)\Steam\steamapps\common\RealRTCW\Main`.
-2. Download the `Archives` folder from this repository.
+2. Download the pk3 files from [here](https://drive.google.com/drive/folders/11EZNjOuAfy5TtgfSqaUx8D_1lJ2NzzB2?usp=drive_link) and skip step *3* **OR** download the `Archives` folder from this repository.
 3. Use a program like Altap Salamander to open the `z_realrtcw_sounds.pk3` archive without extracting it and insert all sound files from the `z_realrtcw_sounds` folder into it (**Reason**: GitHub doesn't allow to upload files bigger than 100 MB).
 4. Replace the game archives with the downloaded archives.
 5. Enjoy! Everything should be working now.
