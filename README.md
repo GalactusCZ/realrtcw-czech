@@ -6,7 +6,10 @@
 
 ### Steam mod
 
-**Pracuji na tom**
+1. Stáhni si mod přes platformu Steam (**Nainstalována musí být i základní hra Return to Castle Wolfenstein**).
+2. V knihovně klikni pravým tlačítkem myši na ikonku modu a vyber `Vlastnosti` (`Properties...`).
+3. Změň jazyk na `Čeština (Czech)`.
+4. Vyčkej chvíli na stažení aktualizace a užívej Češtinu ve hře.
 
 ### Vlastní stažení
 
@@ -36,7 +39,10 @@ A Czech translation of dubbing and all text in RealRTCW (a mod for Return to Cas
 
 ### Steam mod
 
-**WIP**
+1. Install the mod on the Steam platform (**You have to have the base Return to Castle Wolfenstein game installed too**).
+2. Right-click on the mods icon in your library and select `Properties...`.
+3. Change the language to `Čeština (Czech)`.
+4. Wait for the update to download and enjoy the Czech localization in your game.
 
 ### Custom installation
 
